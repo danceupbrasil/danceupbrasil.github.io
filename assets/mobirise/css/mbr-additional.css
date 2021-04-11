@@ -1271,7 +1271,12 @@ a {
   padding-bottom: 2rem;
 }
 .cid-sujSXdJUul .item-wrapper {
+  height: 200px;
   position: relative;
+}
+.cid-sujSXdJUul .item-wrapper img {
+  height: 100%;
+  object-fit: cover;
 }
 .cid-sujSXdJUul .item-wrapper .icon-wrapper {
   pointer-events: none;
