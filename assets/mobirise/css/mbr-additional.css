@@ -1222,6 +1222,10 @@ a {
 .cid-su7JvxQgJT .item-subtitle {
   text-align: center;
 }
+.cid-su7JvxQgJT .mbr-text,
+.cid-su7JvxQgJT .mbr-section-btn P {
+  text-align: left;
+}
 .cid-su7JjZFC4U {
   padding-top: 6rem;
   padding-bottom: 6rem;
