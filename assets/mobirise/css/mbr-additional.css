@@ -950,7 +950,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-su7ETRC2gN .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.5rem);
+    max-height: calc(98.5vh - 5.9rem);
   }
 }
 .cid-su7ETRC2gN .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1198,12 +1198,18 @@ a {
 }
 @media (min-width: 992px) {
   .cid-su7JvxQgJT .item-wrapper .item-content {
-    padding: 2rem;
+    padding: 2rem 2rem 0;
+  }
+  .cid-su7JvxQgJT .item-wrapper .item-footer {
+    padding: 0 2rem 2rem;
   }
 }
 @media (max-width: 991px) {
   .cid-su7JvxQgJT .item-wrapper .item-content {
-    padding: 1rem;
+    padding: 1rem 1rem 0;
+  }
+  .cid-su7JvxQgJT .item-wrapper .item-footer {
+    padding: 0 1rem 1rem;
   }
 }
 .cid-su7JvxQgJT .mbr-section-btn {
@@ -1402,7 +1408,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-su7ETRC2gN .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.6rem);
+    max-height: calc(98.5vh - 5.9rem);
   }
 }
 .cid-su7ETRC2gN .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1909,7 +1915,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-su7ETRC2gN .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.7rem);
+    max-height: calc(98.5vh - 5.9rem);
   }
 }
 .cid-su7ETRC2gN .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -2432,7 +2438,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-su7ETRC2gN .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.6rem);
+    max-height: calc(98.5vh - 5.9rem);
   }
 }
 .cid-su7ETRC2gN .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -2939,7 +2945,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-su7ETRC2gN .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.6rem);
+    max-height: calc(98.5vh - 5.9rem);
   }
 }
 .cid-su7ETRC2gN .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -3430,7 +3436,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-suLKTn1nzz .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.6rem);
+    max-height: calc(98.5vh - 5.9rem);
   }
 }
 .cid-suLKTn1nzz .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -3937,7 +3943,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-suNASfK1V2 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.6rem);
+    max-height: calc(98.5vh - 5.9rem);
   }
 }
 .cid-suNASfK1V2 .navbar.collapsed .dropdown-menu .dropdown-submenu {
